@@ -1,5 +1,5 @@
 # findingRCTs
-Repository for the article: "Finding randomized trials in health research databases: evaluation of transformer models"
+Repository for the article: "Finding randomized trials in health research databases: evaluation of transformer models" submitted to X and available at Y
 
 ## Authors
 
