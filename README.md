@@ -9,4 +9,24 @@ Repository for the article: "Finding randomized trials in health research databa
 [James Thomas](https://iris.ucl.ac.uk/iris/browse/profile?upi=JTHOA32) Institute of Education, University College London, London, UK<br>
 [Iain J Marshall](https://kclpure.kcl.ac.uk/portal/iain.marshall.html) School of Population Health and Life Sciences, King's College London, London, UK<br>
 
+## Structure of the repository
+
+Data folder:<br> 
+
++ `TimeAnalysis2_1.xlsx` (main data file)<br>
++ `UXData1.xlsx` (aux data file - mainly including qualitative answers)<br>
+              
+Jupyter Notebook: Analysis.ipynb<br>
+
 + BERT based Jupyter Notebooks
+
+Structure:<br>  
+1. `Main Analysis` (distribution of the data, Wilcoxon significance tests, boxplots, scatterplots)<br>
+2. `Descriptives` (mean, sd etc of timing data)<br>
+3. `Tukey Ladder of Powers` (data transformation and plots)<br>
+4. `Linear Mixed Effects Model Analysis` (primary and auxiluiary model analysis)<br>
+5. `Reviewer Judgments & Annoations Analysis` (descriptives, self-reported characteristics, agreement data, annotation data)<br>
+6. `Questionnaire Analysis` (likert scale analysis, System Usability Score (SUS) evaluation)<br>
+
+The System used and evaluated in this study can be found here: [RobotReviewer User Study](https://github.com/h21k/robotreviewer3/tree/ux)
+
