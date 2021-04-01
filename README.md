@@ -13,6 +13,7 @@ Repository for the article: "Finding randomized trials in health research databa
 
 Data folder:<br> 
 
++ one
 + `TimeAnalysis2_1.xlsx` (main data file)<br>
 + `UXData1.xlsx` (aux data file - mainly including qualitative answers)<br>
               
