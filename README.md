@@ -1,5 +1,5 @@
 # findingRCTs
-Repository for the article: "Finding randomized trials in health research databases: evaluation of transformer models" submitted to X and available at Y
+Repository for the article: "Finding randomized trials in health research databases: evaluation of transformer models" submitted to [Journal of the American Medical Informatics Association](https://academic.oup.com/jamia) and available at y.
 
 ## Authors
 
