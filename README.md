@@ -20,8 +20,8 @@ Data:<br>
 Fine-Tuned Models:<br> 
 
 Available via hugginface model repo - links to be updated soon
-+ `TimeAnalysis2_1.xlsx` (main data file)<br>
-+ `TimeAnalysis2_1.xlsx` (main data file)<br>
++ link insert<br>
++ link insert<br>
               
 Jupyter Notebook: Analysis.ipynb<br>
 
