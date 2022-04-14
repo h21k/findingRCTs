@@ -9,6 +9,8 @@ Repository for the article: "Finding randomized trials in health research databa
 [James Thomas](https://iris.ucl.ac.uk/iris/browse/profile?upi=JTHOA32) Institute of Education, University College London, London, UK<br>
 [Iain J Marshall](https://kclpure.kcl.ac.uk/portal/iain.marshall.html) School of Population Health and Life Sciences, King's College London, London, UK<br>
 
+This repository will be updated and fully availale at the time of publication. 
+
 ## Structure of the repository
 
 Data:<br> 
